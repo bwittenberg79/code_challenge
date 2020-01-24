@@ -6,7 +6,9 @@ The project should take multiple addresses or geocoordinates, convert the addres
 ## Run the project
 
 clone the repository: ```git clone https://github.com/bwittenberg79/code_challenge.git```
+
 run ```bundle install```
+
 run ```rails s```
 
 *there is not much to run I did a ton of second guessing and restarting this, and deleting repositories, so silly, cause I got much closer on two other versions.
