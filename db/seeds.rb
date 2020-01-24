@@ -3,5 +3,5 @@
 #
 # Examples:
 #
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+ResponseDatum.create(uuid: 'X45D6708')
+ResponseDatum.create(uuid: 'D7766R98')
